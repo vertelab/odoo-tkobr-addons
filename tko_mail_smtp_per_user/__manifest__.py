@@ -11,7 +11,7 @@
     'author': 'ThinkOpen Solutions Brasil, Odoo Community Association (OCA)',
     'license': 'AGPL-3',
     'website': 'http://tkobr.com',
-    'version': '10.0.2.0.0',
+    'version': "18.0.2.0.0",
     'sequence': 10,
     'depends': [
         'base',
